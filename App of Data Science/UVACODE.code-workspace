@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../6001HW"
+		},
+		{
+			"path": "../../../.docker/ds6001databases/ds6001databases"
+		},
+		{
+			"name": "PersonalProject",
+			"path": "../../PersonalProject"
+		}
+	],
+	"settings": {}
+}
