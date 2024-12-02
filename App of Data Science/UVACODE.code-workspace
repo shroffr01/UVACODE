@@ -12,7 +12,12 @@
 		{
 			"name": "PersonalProject",
 			"path": "../../PersonalProject"
+		},
+		{
+			"path": "../../Weather Projects"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Weather Projects"
+	}
 }
