@@ -1,0 +1,21 @@
+timestep,phase,queue_length,waiting_time,green_time_used,total_reward
+5,5,0,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,0
+10,10,0,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,0
+15,15,6,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,-0.09
+20,20,8,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,-0.36
+25,25,8,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,-0.4
+30,5,6,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,1,-0.1
+35,10,7,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,1,-0.27
+40,15,10,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,1,-0.46
+45,5,6,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,-0.26
+50,10,8,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,-0.2
+55,15,12,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,-0.55
+60,20,12,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,-0.6
+65,5,11,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,1,-0.36
+70,10,14,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,1,-0.62
+75,15,14,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,1,-0.7
+80,5,12,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,-0.5
+85,10,13,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,-0.25
+90,15,18,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,-0.76
+95,20,18,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,0,-0.9
+100,5,18,<bound method TrafficSignal.get_accumulated_waiting_time_per_lane of <sumo_rl.environment.traffic_signal.TrafficSignal object at 0x0000022E5974AA90>>,1,-0.64
